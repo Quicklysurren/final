@@ -19,3 +19,7 @@ int main(int argc, char *argv[]) {
 }
 cl mycp.c
 mycp f1.txt f2.txt
+
+자가채점 : 30점
+1. 복사가 완전하게 잘된다. 20점
+2. 소스코드 작성에 성공했다. 10점
